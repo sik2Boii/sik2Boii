@@ -1,6 +1,6 @@
 # 안녕하세요. 백엔드 엔지니어 임준식입니다. 👋
 
-> 모든 결정에 이유가 있고 틀린 결정조차 성장의 재료로 삼으며 꾸준히 나아가는 백엔드 엔지니어입니다.
+> 모든 결정에 이유가 있고 틀린 결정조차 성장의 재료로 삼으며 꾸준히 나아가는 주니어 백엔드 엔지니어입니다.
 
 ---
 
@@ -22,7 +22,7 @@
 
 **[Stampic Backend Portfolio](https://github.com/sik2Boii/stampic-portfolio)**
 - 타임스탬프 사진 기록, 공유 모바일 앱 백엔드, 누적 가입자 130명+
-- Spring Boot 3.5.6, Java 17, MySQL, JPA, QueryDSL, OAuth2, Thymeleaf, NCP, Docker, Nginx, Swagger,GitHub Actions
+- Spring Boot 3.5.6, Java 17, MySQL, JPA, QueryDSL, OAuth2, Thymeleaf, NCP, Docker, Nginx, Swagger, GitHub Actions
 - 커버링 인덱스 적용으로 조회 성능 약 160배 개선 (4,000ms -> 25ms)
 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/스탬픽/id6756785730)
