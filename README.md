@@ -31,7 +31,7 @@
 📲 앱 다운로드
 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/스탬픽/id6756785730)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.project.stampy&hl=ko)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.project.stampy&hl=ko)
 
 <br>
 
@@ -43,7 +43,7 @@
 
 🔗 서비스 바로가기
 
-[![Mingling](https://img.shields.io/badge/Mingling-바로가기-brightgreen?style=for-the-badge)](https://mingling.kr)
+[![Mingling](https://img.shields.io/badge/🌐_mingling.kr-바로가기-81D4FA?style=for-the-badge&labelColor=0D47A1)](https://mingling.kr)
 
 ---
 
