@@ -2,6 +2,8 @@
 
 > 모든 결정에 이유가 있고 틀린 결정조차 성장의 재료로 삼으며 꾸준히 나아가는 주니어 백엔드 엔지니어입니다.
 
+💼 현재 B2B 솔루션 회사에서 Java 개발자로 재직 중입니다. (2024.10 ~ 현재)
+
 ---
 
 ## 🛠 기술 스택
@@ -20,18 +22,26 @@
 
 ## 📌 주요 프로젝트
 
-**[Stampic Backend Portfolio](https://github.com/sik2Boii/stampic-portfolio)**
+### 1. Stampic Backend · [📂 포트폴리오 보기](https://github.com/sik2Boii/stampic-portfolio)
+- 기간: 2025.11 ~ 현재 (진행 중)
 - 타임스탬프 사진 기록, 공유 모바일 앱 백엔드, 누적 가입자 130명+
 - Spring Boot 3.5.6, Java 17, MySQL, JPA, QueryDSL, OAuth2, Thymeleaf, NCP, Docker, Nginx, Swagger, GitHub Actions
-- 커버링 인덱스 적용으로 조회 성능 약 160배 개선 (4,000ms -> 25ms)
+- 커버링 인덱스 적용으로 조회 성능 약 160배 개선 (4,000ms → 25ms)
+
+📲 앱 다운로드
 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/스탬픽/id6756785730)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.project.stampy&hl=ko)
 
-**[Mingling Backend Portfolio](https://github.com/sik2Boii/mingling-backend)**
+<br>
+
+### 2. Mingling Backend · [📂 포트폴리오 보기](https://github.com/sik2Boii/mingling-backend)
+- 기간: 2025.12 ~ 2026.02
 - 출발역 기반 최적 중간 지점 추천 웹 백엔드
 - Spring Boot 4.0.1, Java 21, MariaDB, JPA, Redis, NCP, Docker, Nginx, Swagger, GitHub Actions
-- Cache-Aside 패턴 기반 Redis 캐싱으로 외부 API 호출 횟수 제한 문제 해결 및 응답 속도 약 85배 개선 (1,200ms -> 14ms)
+- Cache-Aside 패턴 기반 Redis 캐싱으로 외부 API 호출 횟수 제한 문제 해결 및 응답 속도 약 85배 개선 (1,200ms → 14ms)
+
+🔗 서비스 바로가기
 
 [![Mingling](https://img.shields.io/badge/Mingling-바로가기-brightgreen?style=for-the-badge)](https://mingling.kr)
 
@@ -47,4 +57,3 @@
 | 리눅스 마스터 2급 | 2024.06 |
 | 네트워크 관리사 2급 | 2024.05 |
 | 컴퓨터활용능력 1급 | 2018.12 |
-
